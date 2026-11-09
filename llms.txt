@@ -23,6 +23,9 @@
 - [Electrician in St. Louis: A Homeowner's Guide](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/electrician-in-st-louis/): Need an electrician in St. Louis? Get practical guidance for home electrical work from a local team. Call Bobby & Sons Electricians in St. Louis today.
 - [How to Choose the Best Electrician for Your Home](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/best-electrician/): Choosing the best electrician takes good questions. Learn what to check for home work in St. Louis, then call Bobby & Sons Electricians to discuss your job.
 
+## Newsroom
+- [Bobby & Sons Electricians Publishes Guide to Electrician In St Louis MO](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/news/2026-11-09-bobby-sons-electricians-publishes-guide-to/): Bobby & Sons Electricians published a guide on Electrician In St Louis MO, with related video, podcast and audio versions. (2026-11-09)
+
 ## Pages
 - [Electrician In St Louis MO in St. Louis](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/): For electrical help in St. Louis, contact Bobby & Sons Electricians to talk through the work you need. Call +1314-730-9668.
 - [About & Contact Bobby & Sons Electricians](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/about/): About Bobby & Sons Electricians, St. Louis.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/bobby-and-sons-electricians-st-louis/news/rss.xml)
 - [Main resource site](https://bobby-sons-electricians-st-louis.localbusinesses1.chatgpt.site)
